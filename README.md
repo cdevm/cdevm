@@ -1,6 +1,6 @@
 # Hey! I'm Carolanne Devlin-McLean 👋 Welcome to my GitHub 
 
-![Header-Image](../cdevm/images/header-image.jpg)
+![Header-Image](./images/header-image.jpg)
 
 ## ❔ **Who Am I** ❔
 
