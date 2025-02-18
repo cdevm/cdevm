@@ -24,14 +24,14 @@
 <!-- SQL devicon -->
 <img height=80  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <p align= center>
-<!-- git devicon -->
-<img height=80  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 <!-- TypeScript devicon -->
 <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <!-- Python devicon-->
 <img height=80  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <!-- Node.js devicon -->
 <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<!-- git devicon -->
+<img height = 80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
 
 
 
@@ -43,6 +43,8 @@
 <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /> 
 <!-- Codepen demicon -->
 <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original-wordmark.svg" /> 
+<img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+          
 
 
 
@@ -63,13 +65,13 @@
 
 ## 📚 Projects I have worked on so far...📚
 
-+ Pokemon Top Trumps game 
-+ A Car Rental Website built using HTML, JS and CSS 
++ Pokemon Top Trumps game built using Python and Pokemon API
++ A Car Rental Website created by using HTML, JS and CSS 
 + A React Application which matches Software Developers to Projects they can collaborate on with others 
-+ and currently collaborating on a Gaming Catalogue React Application.
++ and currently collaborating on a Gaming Catalogue React Application using TypeScript.
 
 ## 🌏 Just the beginning...🌏 
-*_Early in 2024, I first discovered my passion and love for coding. So I'm still very new, and at the beginning of this wonderful journey. I'm learning almost every day, taking on new concepts, learning new skills and challenging the knowledge and skills already acquired._*
+*_Early in 2024, I discovered my passion and love for coding. I'm still very new, and at the beginning of this wonderful journey. I'm learning almost every day, taking on new concepts, learning new skills and challenging the knowledge and skills already acquired._*
 
 *_Happy to connect and collaborate on projects!_*
 
